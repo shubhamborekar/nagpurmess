@@ -2481,10 +2481,10 @@ background-color: #f51f6f;
 	border-right: 1px solid #e4e4e4;
 }
 .toplist li a {
-	color: #8d8c8c;
+	color: #ea3628;
 }
 .toplist li a:hover {
-	color: #272727;
+	color: #ea3628;
 }
 .toplist.toppadding {
 	padding-top: 10px;
